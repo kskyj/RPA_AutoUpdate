@@ -1,8 +1,8 @@
 {
-  "latest_version": "2.1_필수업데이트",
-  "latest_build": "10",
+  "latest_version": "2.1.1_필수업데이트",
+  "latest_build": "211",
   "url": {
-    "download": "",
+    "download": "https://1drv.ms/u/s!Ah2ESnC9P5A_kVHR9msSY-OB_YHl?e=tmHfm5",
     "download_x86": "",
     "description": "https://cafe.naver.com/infinitebuying/10961",
     "releasenote": "https://fragilememor.gitbook.io/kskyj-rpa-kium/releasenote"
