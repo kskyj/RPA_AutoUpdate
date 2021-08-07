@@ -1,2 +1,7 @@
 theme: jekyll-theme-hacker
-google_analytics: G-6B5TVJ6CJK
+# Analytics
+analytics:
+  provider               : "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-6B5TVJ6CJK"
