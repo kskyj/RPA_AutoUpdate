@@ -1,10 +1,10 @@
 {
-  "latest_version": "2.2.2_재업",
-  "latest_build": "223",
+  "latest_version": "2.3",
+  "latest_build": "230",
   "url": {
-    "download": "https://1drv.ms/u/s!Ah2ESnC9P5A_kVp9Cd-jJlX-oZ0r?e=zpQ4oQ",
-    "download_x86": "https://1drv.ms/u/s!Ah2ESnC9P5A_kVp9Cd-jJlX-oZ0r?e=zpQ4oQ",
-    "description": "https://cafe.naver.com/infinitebuying/11741",
+    "download": "https://1drv.ms/u/s!Ah2ESnC9P5A_kVw3nkEaNsZD8CLk",
+    "download_x86": "https://1drv.ms/u/s!Ah2ESnC9P5A_kVw3nkEaNsZD8CLk",
+    "description": "https://cafe.naver.com/infinitebuying/12962",
     "releasenote": "https://fragilememor.gitbook.io/kskyj-rpa-kium/releasenote"
   }
 }
