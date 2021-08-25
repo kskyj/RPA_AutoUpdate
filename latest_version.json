@@ -1,8 +1,9 @@
 {
-  "latest_version": "2.4.2",
+  "latest_version": "2.4.2 - 풀오토매틱모드 버그수정등",
   "latest_build": "242",
   "url": {
-    "download": "https://1drv.ms/u/s!Ah2ESnC9P5A_kWQL7ZLt0PS01AOn?e=EVPTSs,
+    "download": "https://1drv.ms/u/s!Ah2ESnC9P5A_kWQL7ZLt0PS01AOn?e=sOs3Pc",
+    "download_x86": "https://1drv.ms/u/s!Ah2ESnC9P5A_kWQL7ZLt0PS01AOn?e=sOs3Pc",
     "description": "https://cafe.naver.com/infinitebuying/13226",
     "releasenote": "https://fragilememor.gitbook.io/kskyj-rpa-kium/releasenote"
   }
