@@ -1,9 +1,9 @@
 {
-  "latest_version": "2.4.1(안정성 강화)",
-  "latest_build": "240",
+  "latest_version": "2.4.1 - 인식 및 동작개선",
+  "latest_build": "241",
   "url": {
-    "download": "https://1drv.ms/u/s!Ah2ESnC9P5A_kWHLrEueCfKEv0fN?e=ZyoOEv",
-    "download_x86": "https://1drv.ms/u/s!Ah2ESnC9P5A_kWHLrEueCfKEv0fN?e=ZyoOEv",
+    "download": "https://1drv.ms/u/s!Ah2ESnC9P5A_kWJbwVVdI0GTket5?e=cGR4uG",
+    "download_x86": "https://1drv.ms/u/s!Ah2ESnC9P5A_kWJbwVVdI0GTket5?e=cGR4uG",
     "description": "https://cafe.naver.com/infinitebuying/13226",
     "releasenote": "https://fragilememor.gitbook.io/kskyj-rpa-kium/releasenote"
   }
