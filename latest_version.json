@@ -1,10 +1,10 @@
 {
-  "latest_version": "2.4.2 - 풀오토매틱모드 버그수정등",
-  "latest_build": "242",
+  "latest_version": "2.4.3 - [필수]안정화 향상",
+  "latest_build": "243",
   "url": {
-    "download": "https://1drv.ms/u/s!Ah2ESnC9P5A_kWQL7ZLt0PS01AOn?e=sOs3Pc",
-    "download_x86": "https://1drv.ms/u/s!Ah2ESnC9P5A_kWQL7ZLt0PS01AOn?e=sOs3Pc",
-    "description": "https://cafe.naver.com/infinitebuying/13226",
+    "download": "https://1drv.ms/u/s!Ah2ESnC9P5A_kWfaAfKOv7CViOvZ?e=uchuac",
+    "download_x86": "https://1drv.ms/u/s!Ah2ESnC9P5A_kWfaAfKOv7CViOvZ?e=uchuac",
+    "description": "https://cafe.naver.com/infinitebuying/13682",
     "releasenote": "https://fragilememor.gitbook.io/kskyj-rpa-kium/releasenote"
   }
 }
