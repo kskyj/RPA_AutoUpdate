@@ -7,4 +7,13 @@
     "description": "https://cafe.naver.com/infinitebuying/13682",
     "releasenote": "https://fragilememor.gitbook.io/kskyj-rpa-kium/releasenote"
   }
+  "rsi": {
+    "65": "SOXL,BULZ",
+    "60": "TQQQ,TECL,WEBL",
+    "55": "UPRO,WANT,HIBL,FNGU",
+    "50": "TNA,RETL,UDOW,NAIL",
+    "45": "LABU,PILL,MIDU,CURE,FAS",
+    "40": "TPOR,DRN,DUSL,DFEN",
+    "35": "UTSL,BNKU,DPST"
+  }
 }
