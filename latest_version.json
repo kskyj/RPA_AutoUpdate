@@ -7,6 +7,7 @@
     "description": "https://cafe.naver.com/infinitebuying/13682",
     "releasenote": "https://fragilememor.gitbook.io/kskyj-rpa-kium/releasenote"
   },
+  "etf_of_lou" : ["BULZ","SOXL","FNGU","TQQQ","TECL","WEBL","UPRO","WANT","HIBL","TNA","RETL","UDOW","NAIL","LABU","PILL","MIDU","DFEN","FAS","CURE","TPOR","DPST","DRN","DUSL","UTSL","BNKU"],
   "rsi": {
     "65": "SOXL,BULZ",
     "60": "TQQQ,TECL,WEBL",
@@ -15,6 +16,5 @@
     "45": "LABU,PILL,MIDU,CURE,FAS",
     "40": "TPOR,DRN,DUSL,DFEN",
     "35": "UTSL,BNKU,DPST"
-  },
-  "etf_of_lou" : ["BULZ","SOXL","FNGU","TQQQ","TECL","WEBL","UPRO","WANT","HIBL","TNA","RETL","UDOW","NAIL","LABU","PILL","MIDU","DFEN","FAS","CURE","TPOR","DPST","DRN","DUSL","UTSL","BNKU"]
+  }
 }
