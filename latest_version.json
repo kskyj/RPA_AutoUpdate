@@ -1,9 +1,9 @@
 {
-  "latest_version": "2.4.4 [필수]추천종목 개선/안정화 개선",
-  "latest_build": "244",
+  "latest_version": "2.4.5 [필수]안정성 향상/원화주문 버그 수정",
+  "latest_build": "245",
   "url": {
-    "download": "https://1drv.ms/u/s!Ah2ESnC9P5A_kWz6WCbl9l5LXJ1V?e=Ckw8NQ",
-    "download_x86": "https://1drv.ms/u/s!Ah2ESnC9P5A_kWz6WCbl9l5LXJ1V?e=Ckw8NQ",
+    "download": "https://1drv.ms/u/s!Ah2ESnC9P5A_kW206ePpV67HC2DD?e=AYxxvb",
+    "download_x86": "https://1drv.ms/u/s!Ah2ESnC9P5A_kW206ePpV67HC2DD?e=AYxxvb",
     "description": "https://cafe.naver.com/infinitebuying/14300",
     "releasenote": "https://fragilememor.gitbook.io/kskyj-rpa-kium/releasenote"
   },
