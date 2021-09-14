@@ -1,0 +1,13 @@
+{
+  "vr_lou_10year": {
+    "last_update_date": "2021-09-02 18:00:02",
+    "youtube_url": " https://youtu.be/JW24G6jms24",
+    "progress": "20",
+    "current_shares": "52",
+    "current_principal": "6000",
+    "current_pool": "593.72",
+    "until_scheduled": "2021-09-16",
+    "buy": ["1|126.02","1|130.04","1|150.04"],
+    "sell": ["1|126.02","1|130.04","1|150.04"],
+  }
+}
