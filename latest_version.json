@@ -17,5 +17,6 @@
     "40": "TPOR,DRN,DUSL,DFEN",
     "35": "UTSL,BNKU,DPST"
   },
-  "counter_url" : "https://script.google.com/macros/s/AKfycbxBOVdtXsXXcySSLder0mVgs4GVkgir-FMu8IEBOK-8Q4PbWd6rgZ_mKPZ7Jv0-8UJl/exec"
+  "counter_url" : "https://script.google.com/macros/s/AKfycbxBOVdtXsXXcySSLder0mVgs4GVkgir-FMu8IEBOK-8Q4PbWd6rgZ_mKPZ7Jv0-8UJl/exec",
+  "force_stop" : "0"
 }
