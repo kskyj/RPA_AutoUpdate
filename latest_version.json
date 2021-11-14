@@ -1,9 +1,9 @@
 {
-  "latest_version": "[필수]2.6.5 매매분석 버그수정",
-  "latest_build": "265",
+  "latest_version": "[필수]2.7 무한매수법 V2.1 지원",
+  "latest_build": "270",
   "url": {
-    "download": "https://1drv.ms/u/s!Ah2ESnC9P5A_kiurZRhZsSIiHO0T?e=GjRgDK",
-    "description": "https://cafe.naver.com/infinitebuying/20777",
+    "download": "https://1drv.ms/u/s!Ah2ESnC9P5A_ki2FjpI6J1ExHqs8?e=raLGn7",
+    "description": "https://cafe.naver.com/infinitebuying/21617",
     "releasenote": "https://fragilememor.gitbook.io/kskyj-rpa-kium/releasenote"
   },
   "etf_of_lou" : ["BULZ","SOXL","FNGU","TQQQ","TECL","WEBL","UPRO","WANT","HIBL","TNA","RETL","UDOW","NAIL","LABU","PILL","MIDU","DFEN","FAS","CURE","TPOR","DPST","DRN","DUSL","UTSL","BNKU"],
