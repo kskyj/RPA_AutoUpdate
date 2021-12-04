@@ -16,6 +16,7 @@
     "40": "TPOR,DRN,DUSL,DFEN",
     "35": "UTSL,BNKU,DPST"
   },
+  "caution" : ["BNKU","CURE","DRN","DUSL","HIBL","MIDU","NAIL","PILL","RETL","TPOR","UTSL","WANT","WEBL"],
   "counter_url" : "https://script.google.com/macros/s/AKfycbxBOVdtXsXXcySSLder0mVgs4GVkgir-FMu8IEBOK-8Q4PbWd6rgZ_mKPZ7Jv0-8UJl/exec",
   "donation_qr_image_url" : "https://kskyj.github.io/RPA_AutoUpdate/ksj.jpg",
   "donation_kakao_url" : "https://qr.kakaopay.com/281006011000046067934180",
