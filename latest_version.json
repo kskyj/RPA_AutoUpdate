@@ -16,6 +16,11 @@
     "40": "TPOR,DRN,DUSL,DFEN",
     "35": "UTSL,BNKU,DPST"
   },
+  "sector": {
+    "1": "BNKU,DPST,FAS",
+    "2": "TECL,TQQQ,WEBL",
+    "3": "MIDU,TNA"
+  },
   "caution" : ["BNKU","CURE","DRN","DUSL","HIBL","MIDU","NAIL","PILL","RETL","TPOR","UTSL","WANT","WEBL"],
   "counter_url" : "https://script.google.com/macros/s/AKfycbxBOVdtXsXXcySSLder0mVgs4GVkgir-FMu8IEBOK-8Q4PbWd6rgZ_mKPZ7Jv0-8UJl/exec",
   "donation_qr_image_url" : "https://kskyj.github.io/RPA_AutoUpdate/ksj.jpg",
