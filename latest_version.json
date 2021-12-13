@@ -1,9 +1,9 @@
 {
-  "latest_version": "[필수]2.7.2 풀오토 자동등록, 메일 종목 버그 패치",
-  "latest_build": "272",
+  "latest_version": "[필수]2.8 장중매수, 체결내역 조회",
+  "latest_build": "280",
   "url": {
-    "download": "https://1drv.ms/u/s!Ah2ESnC9P5A_kjBkOZ2QmsgGjUIQ?e=lyfGkB",
-    "description": "https://cafe.naver.com/infinitebuying/22724",
+    "download": "https://1drv.ms/u/s!Ah2ESnC9P5A_kjZF4MNdtKlPxwoj",
+    "description": "https://cafe.naver.com/infinitebuying/25421",
     "releasenote": "https://fragilememor.gitbook.io/kskyj-rpa-kium/releasenote"
   },
   "etf_of_lou" : ["BULZ","SOXL","FNGU","TQQQ","TECL","WEBL","UPRO","WANT","HIBL","TNA","RETL","UDOW","NAIL","LABU","PILL","MIDU","DFEN","FAS","CURE","TPOR","DPST","DRN","DUSL","UTSL","BNKU"],
