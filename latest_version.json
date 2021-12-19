@@ -1,9 +1,9 @@
 {
-  "latest_version": "2.8.1 완전자동화UI개선, WEBL배당추가, Minor 버그수정",
-  "latest_build": "281",
+  "latest_version": "2.8.2 자동원금 동일금액추가, WEBL배당변경, 버그수정",
+  "latest_build": "282",
   "url": {
-    "download": "https://1drv.ms/u/s!Ah2ESnC9P5A_kjrxzUFS8Je-5AAn?e=Yuxged",
-    "description": "https://cafe.naver.com/infinitebuying/25421",
+    "download": "https://1drv.ms/u/s!Ah2ESnC9P5A_kjx9dDusj2HwxpwN?e=ZqJ6JB",
+    "description": "https://cafe.naver.com/infinitebuying/26198",
     "releasenote": "https://fragilememor.gitbook.io/kskyj-rpa-kium/releasenote"
   },
   "etf_of_lou" : ["BULZ","SOXL","FNGU","TQQQ","TECL","WEBL","UPRO","WANT","HIBL","TNA","RETL","UDOW","NAIL","LABU","PILL","MIDU","DFEN","FAS","CURE","TPOR","DPST","DRN","DUSL","UTSL","BNKU"],
