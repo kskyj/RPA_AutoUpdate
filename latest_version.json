@@ -1,8 +1,8 @@
 {
-  "latest_version": "2.8.2 자동원금 동일금액추가, WEBL배당변경, 버그수정",
-  "latest_build": "282",
+  "latest_version": "2.8.3 특정환경 모두한번에Go 안되는현상 수정, 체결완료 표시 등",
+  "latest_build": "283",
   "url": {
-    "download": "https://1drv.ms/u/s!Ah2ESnC9P5A_kj46OYoLhDu54GuR",
+    "download": "https://1drv.ms/u/s!Ah2ESnC9P5A_kkBUK8eru0BXqx8l",
     "description": "https://cafe.naver.com/infinitebuying/26198",
     "releasenote": "https://fragilememor.gitbook.io/kskyj-rpa-kium/releasenote"
   },
