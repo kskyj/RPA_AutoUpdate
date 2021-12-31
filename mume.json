@@ -1,0 +1,46 @@
+{
+  "apikey":"z93XjW9JUxa7u2gDzWtmlFJTE2EmJaHefKpchFkb",
+  "account_order": 1,
+  "account_number": "****-**99",
+  "total_seed":50000,
+  "kiwoom_currency":1189.9,
+  "balances": [
+   {
+      "ticker": "TQQQ",
+      "principal": 20000,
+      "purchase_amount": 5000.55,
+      "cost_price": 172.99,
+      "infinite_buying_type": "TLP_V1"
+    },
+   {
+      "ticker": "SOXL",
+      "principal": 10000,
+      "purchase_amount": 6000,
+      "cost_price": 50.12,
+      "infinite_buying_type": "V2.1"
+    },
+   {
+      "ticker": "LABU",
+      "principal": "20000",
+      "purchase_amount": "5000",
+      "cost_price": "172.99",
+      "infinite_buying_type": "V2"
+    }
+  ],
+  "monthly_profit":[
+   {
+      "month":"2021/11",
+      "buy_amount_total":3374,
+      "sell_amount_total":3584,
+      "tax_amount_total":5,
+      "profit_amount_total":205
+    },
+    {
+      "month":"2021/12",
+      "buy_amount_total":16130,
+      "sell_amount_total":17410,
+      "tax_amount_total":23,
+      "profit_amount_total":1257
+    }
+   ]
+}
