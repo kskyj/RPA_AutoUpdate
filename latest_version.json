@@ -1,9 +1,9 @@
 {
-  "latest_version": "2.9.5 실현손익 당해연도, 자동업데이트 추가",
-  "latest_build": "295",
+  "latest_version": "2.10 전체영혼법, 정액매수, 분할설정 추가",
+  "latest_build": "2100",
   "url": {
     "download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest/kskyj_RPA_Setup.exe",
-    "description": "https://cafe.naver.com/infinitebuying/34356",
+    "description": "https://cafe.naver.com/infinitebuying/36134",
     "releasenote": "https://fragilememor.gitbook.io/kskyj-rpa-kium/releasenote"
   },
   "etf_of_lou" : ["BULZ","SOXL","FNGU","TQQQ","TECL","WEBL","UPRO","WANT","HIBL","TNA","RETL","UDOW","NAIL","LABU","PILL","MIDU","DFEN","FAS","CURE","TPOR","DPST","DRN","DUSL","UTSL","BNKU"],
