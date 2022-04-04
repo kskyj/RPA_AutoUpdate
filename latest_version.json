@@ -1,9 +1,9 @@
 {
-  "latest_version": "2.10.2 진행률에따라 매수자동관리, 원금분할 종목별로 지원",
-  "latest_build": "2102",
+  "latest_version": "2.10.3 진행률에따라 매수자동관리 수정, 기타 개선",
+  "latest_build": "2103",
   "url": {
     "download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest/kskyj_RPA_Setup.exe",
-    "description": "https://cafe.naver.com/infinitebuying/36134",
+    "description": "https://cafe.naver.com/infinitebuying/38546",
     "releasenote": "https://fragilememor.gitbook.io/kskyj-rpa-kium/releasenote"
   },
   "etf_of_lou" : ["BULZ","SOXL","FNGU","TQQQ","TECL","WEBL","UPRO","WANT","HIBL","TNA","RETL","UDOW","NAIL","LABU","PILL","MIDU","DFEN","FAS","CURE","TPOR","DPST","DRN","DUSL","UTSL","BNKU"],
