@@ -1,6 +1,6 @@
 {
-  "latest_version": "2.10.5 정액매수 현재가 기준으로 변경, 2.10.4 버그 수정",
-  "latest_build": "2105",
+  "latest_version": "2.11 쿼터손절법, 무지성매수, 종가매도 등",
+  "latest_build": "2110",
   "url": {
     "download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest/kskyj_RPA_Setup.exe",
     "description": "https://cafe.naver.com/infinitebuying/44305",
