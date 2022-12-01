@@ -1,9 +1,9 @@
 {
-  "latest_version": "2.11.2 오류사항 수정 등",
-  "latest_build": "2112",
+  "latest_version": "2.11.3 Finviz 변경 대응 등",
+  "latest_build": "2113",
   "url": {
     "download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest/kskyj_RPA_Setup.exe",
-    "description": "https://cafe.naver.com/infinitebuying/46525",
+    "description": "https://cafe.naver.com/infinitebuying/48290",
     "releasenote": "https://fragilememor.gitbook.io/kskyj-rpa-kium/releasenote"
   },
   "etf_of_lou" : ["BULZ","SOXL","FNGU","TQQQ","TECL","WEBL","UPRO","WANT","HIBL","TNA","RETL","UDOW","NAIL","LABU","PILL","MIDU","DFEN","FAS","CURE","TPOR","DPST","DRN","DUSL","UTSL","BNKU","QLD"],
@@ -27,6 +27,6 @@
   "donation_kakao_url" : "https://qr.kakaopay.com/281006011000046067934180",
   "force_stop" : "0",
   "experimental_key" : "f7c10c11d9b2a340d04bfe9ef865a81615b0791956585061ed4b9a06",
-  "pre_market_opening_hours" : "17:00",
-  "regular_market_opening_hours" : "22:30"
+  "pre_market_opening_hours" : "18:00",
+  "regular_market_opening_hours" : "23:30"
 }
