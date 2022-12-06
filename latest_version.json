@@ -1,6 +1,6 @@
 {
-  "latest_version": "2.11.3 Finviz 변경 대응 등",
-  "latest_build": "2113",
+  "latest_version": "2.11.4 Finviz 변경 추가 대응 등",
+  "latest_build": "2114",
   "url": {
     "download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest/kskyj_RPA_Setup.exe",
     "description": "https://cafe.naver.com/infinitebuying/48290",
