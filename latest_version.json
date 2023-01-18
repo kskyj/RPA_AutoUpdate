@@ -1,6 +1,6 @@
 {
-  "latest_version": "2.11.4 Finviz 변경 추가 대응 등",
-  "latest_build": "2114",
+  "latest_version": "2.12 무한매수법 v2.2 지원",
+  "latest_build": "2120",
   "url": {
     "download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest/kskyj_RPA_Setup.exe",
     "description": "https://cafe.naver.com/infinitebuying/48290",
