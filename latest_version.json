@@ -1,6 +1,6 @@
 {
-  "latest_version": "2.12 무한매수법 v2.2 지원",
-  "latest_build": "2120",
+  "latest_version": "2.12.1 백신 오진처리, 무한매수법 v2.2 하락시 매수수정",
+  "latest_build": "2121",
   "url": {
     "download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest/kskyj_RPA_Setup.exe",
     "description": "https://cafe.naver.com/infinitebuying/48290",
