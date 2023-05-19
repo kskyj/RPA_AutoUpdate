@@ -1,9 +1,9 @@
 {
-  "latest_version": "2.12.2 무매법 v2.2 안전장치 추가",
+  "latest_version": "2.13 다양한 기능 추가",
   "latest_build": "2122",
   "url": {
     "download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest/kskyj_RPA_Setup.exe",
-    "description": "https://cafe.naver.com/infinitebuying/50659",
+    "description": "https://cafe.naver.com/infinitebuying/51612",
     "releasenote": "https://fragilememor.gitbook.io/kskyj-rpa-kium/releasenote"
   },
   "etf_of_lou" : ["BULZ","SOXL","FNGU","TQQQ","TECL","WEBL","UPRO","WANT","HIBL","TNA","RETL","UDOW","NAIL","LABU","PILL","MIDU","DFEN","FAS","CURE","TPOR","DPST","DRN","DUSL","UTSL","BNKU","QLD"],
