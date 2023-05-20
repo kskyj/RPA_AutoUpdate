@@ -1,6 +1,6 @@
 {
-  "latest_version": "2.13 다양한 기능 추가",
-  "latest_build": "2122",
+  "latest_version": "2.13.1 여러 기능 추가 + V2.2 매수가격 -0.01 조정",
+  "latest_build": "2131",
   "url": {
     "download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest/kskyj_RPA_Setup.exe",
     "description": "https://cafe.naver.com/infinitebuying/51612",
