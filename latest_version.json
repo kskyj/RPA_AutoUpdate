@@ -1,9 +1,9 @@
 {
-  "latest_version": "2.13.1 여러 기능 추가 + V2.2 매수가격 -0.01 조정",
-  "latest_build": "2131",
+  "latest_version": "2.14 소진후 자동신규 매수, 종가떨사, 설정 일괄변경 등",
+  "latest_build": "2140",
   "url": {
     "download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest/kskyj_RPA_Setup.exe",
-    "description": "https://cafe.naver.com/infinitebuying/51612",
+    "description": "https://cafe.naver.com/infinitebuying/52481",
     "releasenote": "https://fragilememor.gitbook.io/kskyj-rpa-kium/releasenote"
   },
   "etf_of_lou" : ["BULZ","SOXL","FNGU","TQQQ","TECL","WEBL","UPRO","WANT","HIBL","TNA","RETL","UDOW","NAIL","LABU","PILL","MIDU","DFEN","FAS","CURE","TPOR","DPST","DRN","DUSL","UTSL","BNKU","QLD"],
