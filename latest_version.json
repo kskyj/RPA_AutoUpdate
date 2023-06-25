@@ -1,6 +1,6 @@
 {
-  "latest_version": "2.14 소진후 자동신규 매수, 종가떨사, 설정 일괄변경 등",
-  "latest_build": "2140",
+  "latest_version": "2.14.1 소진후 자동신규 매수 개선",
+  "latest_build": "2141",
   "url": {
     "download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest/kskyj_RPA_Setup.exe",
     "description": "https://cafe.naver.com/infinitebuying/52481",
