@@ -1,9 +1,9 @@
 {
-  "latest_version": "2.14.1 소진후 자동신규 매수 개선",
-  "latest_build": "2141",
+  "latest_version": "2.14.2 SOXL V2.2 대응, 크기조정 옵션 등",
+  "latest_build": "2142",
   "url": {
     "download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest/kskyj_RPA_Setup.exe",
-    "description": "https://cafe.naver.com/infinitebuying/52481",
+    "description": "https://cafe.naver.com/infinitebuying/53052",
     "releasenote": "https://fragilememor.gitbook.io/kskyj-rpa-kium/releasenote"
   },
   "etf_of_lou" : ["BULZ","SOXL","FNGU","TQQQ","TECL","WEBL","UPRO","WANT","HIBL","TNA","RETL","UDOW","NAIL","LABU","PILL","MIDU","DFEN","FAS","CURE","TPOR","DPST","DRN","DUSL","UTSL","BNKU","QLD"],
