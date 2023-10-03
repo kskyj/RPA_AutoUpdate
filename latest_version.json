@@ -29,5 +29,6 @@
   "force_stop" : "0",
   "experimental_key" : "f7c10c11d9b2a340d04bfe9ef865a81615b0791956585061ed4b9a06",
   "pre_market_opening_hours" : "9:00",
-  "regular_market_opening_hours" : "22:30"
+  "regular_market_opening_hours" : "22:30",
+  "finviz_table_class" : "styled-table-new is-rounded is-tabular-nums w-full screener_table"
 }
