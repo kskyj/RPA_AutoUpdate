@@ -1,5 +1,5 @@
 {
-  "latest_version": "2.14.3 V2.2 후반전 매수개수 버그 수정",
+  "latest_version": "2.14.4 finviz변경 대응 외 여러사항 수정",
   "latest_build": "2143",
   "url": {
     "download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest/kskyj_RPA_Setup.exe",
