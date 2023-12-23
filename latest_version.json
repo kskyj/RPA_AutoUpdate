@@ -1,6 +1,6 @@
 {
-  "latest_version": "2.14.6 하락대비 추가매수 버그수정(2.14.5의 버그)",
-  "latest_build": "2146",
+  "latest_version": "2.14.7 소진 후 기존정보 신규매수 등 버그 및 개선",
+  "latest_build": "2147",
   "url": {
     "download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest/kskyj_RPA_Setup.exe",
     "description": "https://cafe.naver.com/infinitebuying/54633",
