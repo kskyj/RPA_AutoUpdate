@@ -31,7 +31,7 @@
   "pre_market_opening_hours" : "9:00",
   "regular_market_opening_hours" : "23:30",
   "finviz_table_class" : "styled-table-new is-rounded is-tabular-nums w-full screener_table",
-  "ticker_search_keyword_default" : {
+  "ticker_search_keyword" : {
     "FAS": "FINANCIAL BULL 3X ETF",
     "CURE": "DAILY HEALTHCARE BULL 3X ETF",
     "BOIL": "ULTRA BLOOMBERG NATURAL GAS"
