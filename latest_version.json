@@ -1,6 +1,6 @@
 {
-  "latest_version": "2.15.2 FAS CURE 매매 에러 대응",
-  "latest_build": "2152",
+  "latest_version": "2.15.3 매매안정화 개선",
+  "latest_build": "2153",
   "url": {
     "download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest/kskyj_RPA_Setup.exe",
     "description": "https://cafe.naver.com/infinitebuying/57535",
