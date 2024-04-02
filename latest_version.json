@@ -34,8 +34,7 @@
   "ticker_search_keyword" : {
     "FAS": "FINANCIAL BULL 3X ETF",
     "CURE": "DAILY HEALTHCARE BULL 3X ETF",
-    "BOIL": "ULTRA BLOOMBERG NATURAL GAS",
-    "SOXL": "SEMICONDUCTOR BULL 3X"
+    "BOIL": "ULTRA BLOOMBERG NATURAL GAS"
   },
   "google_sheet_order" : {
     "credentials" : [
