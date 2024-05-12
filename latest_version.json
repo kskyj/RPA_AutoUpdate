@@ -1,9 +1,9 @@
 {
-  "latest_version": "2.16 영웅문HTS 여러개 지원,매매방법 변경,매매 카톡 인식개선",
-  "latest_build": "2160",
+  "latest_version": "2.16.1 영웅문HTS 여러개 지원 개선, 매매 카톡 개선",
+  "latest_build": "2161",
   "url": {
     "download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest/kskyj_RPA_Setup.exe",
-    "description": "https://cafe.naver.com/infinitebuying/58030",
+    "description": "https://cafe.naver.com/infinitebuying/58771",
     "releasenote": "https://fragilememor.gitbook.io/kskyj-rpa-kium/releasenote"
   },
   "etf_of_lou" : ["BULZ","SOXL","FNGU","TQQQ","TECL","WEBL","UPRO","WANT","HIBL","TNA","RETL","UDOW","NAIL","LABU","PILL","MIDU","DFEN","FAS","CURE","TPOR","DPST","DRN","DUSL","UTSL","BNKU","QLD"],
