@@ -32,9 +32,8 @@
   "regular_market_opening_hours" : "23:30",
   "finviz_table_class" : "styled-table-new is-rounded is-tabular-nums w-full screener_table",
   "ticker_search_keyword" : {
-    "FAS": "FINANCIAL BULL 3X ETF",
+    "FAS": "금융주 3배",
     "CURE": "DAILY HEALTHCARE BULL 3X ETF",
-    "BOIL": "ULTRA BLOOMBERG NATURAL GAS",
     "AAL": "칸 에어라인스",
     "SOXL": "미국 반도체 3배"
   },
