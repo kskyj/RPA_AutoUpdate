@@ -1,6 +1,6 @@
 {
-  "latest_version": "2.16.3 사소한 기능 개선",
-  "latest_build": "2163",
+  "latest_version": "2.17 IBS지원, V3.0 등",
+  "latest_build": "2170",
   "url": {
     "download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest/kskyj_RPA_Setup.exe",
     "description": "https://cafe.naver.com/infinitebuying/59608",
