@@ -6,7 +6,7 @@
     "description": "https://cafe.naver.com/infinitebuying/63049",
     "releasenote": "https://fragilememor.gitbook.io/kskyj-rpa-kium/releasenote"
   },
-  "etf_of_lou" : ["BULZ","SOXL","FNGU","TQQQ","TECL","WEBL","UPRO","WANT","HIBL","TNA","RETL","UDOW","NAIL","LABU","PILL","MIDU","DFEN","FAS","CURE","TPOR","DPST","DRN","DUSL","UTSL","BNKU","QLD"],
+  "etf_of_lou" : ["BULZ","SOXL","FNGU","TQQQ","TECL","WEBL","UPRO","WANT","HIBL","TNA","RETL","UDOW","NAIL","LABU","PILL","MIDU","DFEN","FAS","CURE","TPOR","DPST","DRN","DUSL","UTSL","QLD"],
   "rsi": {
     "65": "SOXL,BULZ",
     "60": "TQQQ,TECL,WEBL",
@@ -14,14 +14,14 @@
     "50": "TNA,RETL,UDOW,NAIL",
     "45": "LABU,PILL,MIDU,CURE,FAS",
     "40": "TPOR,DRN,DUSL,DFEN",
-    "35": "UTSL,BNKU,DPST"
+    "35": "UTSL,DPST"
   },
   "sector": {
     "1": "BNKU,DPST,FAS",
     "2": "TECL,TQQQ,WEBL",
     "3": "MIDU,TNA"
   },
-  "caution" : ["BNKU","CURE","DRN","DUSL","HIBL","MIDU","NAIL","PILL","RETL","TPOR","UTSL","WANT","WEBL"],
+  "caution" : ["CURE","DRN","DUSL","HIBL","MIDU","NAIL","PILL","RETL","TPOR","UTSL","WANT","WEBL"],
   "counter_url" : "https://script.google.com/macros/s/AKfycbxBOVdtXsXXcySSLder0mVgs4GVkgir-FMu8IEBOK-8Q4PbWd6rgZ_mKPZ7Jv0-8UJl/exec",
   "custom_order_reference_url" : "https://opensheet.elk.sh",
   "donation_qr_image_url" : "https://kskyj.github.io/RPA_AutoUpdate/ksj.jpg",
