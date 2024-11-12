@@ -17,7 +17,7 @@
     "35": "UTSL,DPST"
   },
   "sector": {
-    "1": "BNKU,DPST,FAS",
+    "1": "DPST,FAS",
     "2": "TECL,TQQQ,WEBL",
     "3": "MIDU,TNA"
   },
