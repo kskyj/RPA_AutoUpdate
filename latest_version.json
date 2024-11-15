@@ -1,6 +1,6 @@
 {
-  "latest_version": "2.18 장중매도, TWAP, VWAP를 곁들인",
-  "latest_build": "2180",
+  "latest_version": "2.18.1 장중매도 패치",
+  "latest_build": "2181",
   "url": {
     "download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest/kskyj_RPA_Setup.exe",
     "description": "https://cafe.naver.com/infinitebuying/63049",
