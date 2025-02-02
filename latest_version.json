@@ -6,6 +6,7 @@
     "description": "https://cafe.naver.com/infinitebuying/63049",
     "releasenote": "https://fragilememor.gitbook.io/kskyj-rpa-kium/releasenote"
   },
+  "homepage_url" : "https://blog.naver.com/fragilememor/223745449967",
   "etf_of_lou" : ["BULZ","SOXL","FNGU","TQQQ","TECL","WEBL","UPRO","WANT","HIBL","TNA","RETL","UDOW","NAIL","LABU","PILL","MIDU","DFEN","FAS","CURE","TPOR","DPST","DRN","DUSL","UTSL","QLD"],
   "rsi": {
     "65": "SOXL,BULZ",
