@@ -31,6 +31,7 @@
   "force_stop_lite" : "0",
   "homepage" : "https://blog.naver.com/fragilememor",
   "experimental_key" : "f7c10c11d9b2a340d04bfe9ef865a81615b0791956585061ed4b9a06",
+  "vip_key" : "299b71ffa1784464cb9d477ecb505a02fcbe7cf12c69ae4cbcb31298",
   "pre_market_opening_hours" : "9:00",
   "regular_market_opening_hours" : "23:30",
   "finviz_table_class" : "styled-table-new is-rounded is-tabular-nums w-full screener_table",
