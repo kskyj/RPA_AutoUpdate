@@ -3,6 +3,7 @@
   "genie_latest_build": "3000",
   "latest_build": "2181",
   "url": {
+    "genie_download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest_Genie_RPA/Genie_RPA_Setup.exe",
     "download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest/kskyj_RPA_Setup.exe",
     "description": "https://cafe.naver.com/infinitebuying/63049",
     "releasenote": "https://fragilememor.gitbook.io/kskyj-rpa-kium/releasenote"
