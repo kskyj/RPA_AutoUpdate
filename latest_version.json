@@ -1,7 +1,7 @@
 {
-  "latest_version": "2.18.1 장중매도 패치",
+  "latest_version": "2.18.2 자동 메일 패치",
   "genie_latest_build": "3000",
-  "latest_build": "2181",
+  "latest_build": "2182",
   "url": {
     "genie_download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest_Genie_RPA/Genie_RPA_Setup.exe",
     "download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest/kskyj_RPA_Setup.exe",
