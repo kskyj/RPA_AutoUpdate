@@ -1,12 +1,12 @@
 {
-  "latest_version": "3.0.2 메리츠증권 HTS 인식 개선",
-  "genie_latest_build": "3002",
+  "latest_version": "3.1 메리츠 계좌번호, 다음매수 표시",
+  "genie_latest_build": "3100",
   "latest_build": "2183",
   "url": {
     "genie_download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest_Genie_RPA/Genie_RPA_Setup.exe",
     "download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest/kskyj_RPA_Setup.exe",
-    "description": "https://cafe.naver.com/infinitebuying/69266",
-    "releasenote": "https://fragilememor.gitbook.io/kskyj-rpa-kium/releasenote"
+    "description": "https://cafe.naver.com/infinitebuying/69797",
+    "releasenote": "https://fragilememor.gitbook.io/genie-rpa/releasenote"
   },
   "homepage_url" : "https://blog.naver.com/fragilememor/223745449967",
   "etf_of_lou" : ["BULZ","SOXL","FNGU","TQQQ","TECL","WEBL","UPRO","WANT","HIBL","TNA","RETL","UDOW","NAIL","LABU","PILL","MIDU","DFEN","FAS","CURE","TPOR","DPST","DRN","DUSL","UTSL","QLD"],
