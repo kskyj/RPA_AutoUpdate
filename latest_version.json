@@ -1,11 +1,11 @@
 {
-  "latest_version": "3.1.2 쿼터매도 자동, 메리츠 인식향상 등",
-  "genie_latest_build": "3112",
+  "latest_version": "3.1.3 다계좌에 HTS선택추가 등",
+  "genie_latest_build": "3113",
   "latest_build": "2183",
   "url": {
     "genie_download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest_Genie_RPA/Genie_RPA_Setup.exe",
     "download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest/kskyj_RPA_Setup.exe",
-    "description": "https://cafe.naver.com/infinitebuying/70386",
+    "description": "https://blog.naver.com/fragilememor/223745449967",
     "releasenote": "https://fragilememor.gitbook.io/genie-rpa/releasenote"
   },
   "homepage_url" : "https://blog.naver.com/fragilememor/223745449967",
