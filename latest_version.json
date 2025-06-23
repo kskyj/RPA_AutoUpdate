@@ -1,6 +1,6 @@
 {
   "latest_version": "v3.3 실현손익, 키움 자전거래, 특정환경 매매안정개선 등",
-  "genie_latest_build": "3300",
+  "genie_latest_build": "3200",
   "latest_build": "2183",
   "url": {
     "genie_download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest_Genie_RPA/Genie_RPA_Setup.exe",
