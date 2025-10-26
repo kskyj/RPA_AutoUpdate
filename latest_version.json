@@ -1,6 +1,6 @@
 {
-  "latest_version": "필수 업데이트 v3.3.4 실현손익 안정개선, 특정환경 매매안정개선 등",
-  "genie_latest_build": "3304",
+  "latest_version": "필수 업데이트 v3.4 미체결내역 제공, 수익률계산, 매매안정개선 등",
+  "genie_latest_build": "3400",
   "latest_build": "2183",
   "url": {
     "genie_download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest_Genie_RPA/Genie_RPA_Setup.exe",
