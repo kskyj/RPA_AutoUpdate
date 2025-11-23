@@ -1,6 +1,6 @@
 {
-  "latest_version": "필수 업데이트 v3.4.1 미체결내역 제공, 수익률계산, 매매안정개선 등",
-  "genie_latest_build": "3401",
+  "latest_version": "필수 업데이트 v3.4.2 메리츠 실현손익 변경 대응",
+  "genie_latest_build": "3402",
   "latest_build": "2183",
   "url": {
     "genie_download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest_Genie_RPA/Genie_RPA_Setup.exe",
