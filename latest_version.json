@@ -38,7 +38,7 @@
   "donation_kakao_url" : "https://qr.kakaopay.com/281006011000037423111510",
   "force_stop" : "0",
   "force_stop_lite" : "0",
-  "force_plus_stop" : "0",
+  "force_stop_plus" : "0",
   "homepage" : "https://blog.naver.com/fragilememor",
   "experimental_key" : "f7c10c11d9b2a340d04bfe9ef865a81615b0791956585061ed4b9a06X",
   "experimental_key_new" : "cca43be42475afdb6053d473eecf2bd8234cf68089b0b55c413c2f7961c1bd98",
