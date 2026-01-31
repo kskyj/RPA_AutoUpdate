@@ -36,7 +36,7 @@
   "custom_order_reference_url" : "https://opensheet.elk.sh",
   "donation_qr_image_url" : "https://kskyj.github.io/RPA_AutoUpdate/kakaopay.jpg",
   "donation_kakao_url" : "https://qr.kakaopay.com/281006011000037423111510",
-  "force_stop" : "0",
+  "force_stop" : "1",
   "force_stop_lite" : "0",
   "force_stop_plus" : "0",
   "homepage" : "https://blog.naver.com/fragilememor",
