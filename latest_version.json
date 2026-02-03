@@ -1,6 +1,6 @@
 {
-  "latest_version": "v3.4.4 필수업데이트! 구버젼 종료에 따른 신버젼 처리",
-  "genie_latest_build": "3404",
+  "latest_version": "v3.4.5 키움 AFTER지정가 삭제 대응",
+  "genie_latest_build": "3405",
   "latest_build": "2183",
   "url": {
     "genie_download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest_Genie_RPA/Genie_RPA_Setup.exe",
