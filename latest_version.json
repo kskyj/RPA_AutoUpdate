@@ -1,6 +1,6 @@
 {
-  "latest_version": "v3.4.5 키움 AFTER지정가 삭제 대응",
-  "genie_latest_build": "3405",
+  "latest_version": "v3.4.6 메리츠 매도 실패 대응",
+  "genie_latest_build": "3406",
   "latest_build": "2183",
   "url": {
     "genie_download": "https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest_Genie_RPA/Genie_RPA_Setup.exe",
